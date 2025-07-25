@@ -1,16 +1,15 @@
-## Hi there 👋
+[![ GitHub stats](https://github-readme-stats.vercel.app/api?username=BKIslem&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BKIslem&layout=donut&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**istrabelsi/istrabelsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ _Ben Khaled Trabelsi Islem_ ✨
+ 
+# 👋 Hi there, I'm an Developer!
 
-Here are some ideas to get you started:
+💜 Odoo enthusiast — from backend logic to UI magic  
+🦉 Exploring the frontiers with **OWL (Odoo Web Library)**  
+🐍 Python is not just a language, it's a *lifestyle*  
+📄 XML isn't boring — it's the **structure** behind the scenes  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Welcome to my GitHub!
+
+Let’s connect, build, and automate the boring stuff 💻🚀  
