@@ -1,5 +1,5 @@
 [![ GitHub stats](https://github-readme-stats.vercel.app/api?username=BKIslem&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BKIslem&layout=donut&theme=synthwave&exclude_repo=ton_repo_php&hide=php,twig)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BKIslem&layout=donut&theme=synthwave&exclude_repo=ton_repo_php&hide=php,twig,Hack)](https://github.com/anuraghazra/github-readme-stats)
 
 ✨ _Ben Khaled Trabelsi Islem_ ✨
  
